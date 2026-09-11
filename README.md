@@ -1,6 +1,6 @@
 # Online Retail Data Analysis using Hadoop
 
-Big Data Analytics Lab project. Four MapReduce programs and five Apache Pig
+Four MapReduce programs and five Apache Pig
 scripts run over the UCI *Online Retail* transaction dataset on a single-node
 Hadoop cluster.
 
